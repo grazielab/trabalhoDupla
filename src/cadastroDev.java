@@ -114,7 +114,7 @@ public class cadastroDev {
             case 3:
                 System.out.println("Saindo ...");
                 break;
-            default:
+          //  default:
 
         }
     }
